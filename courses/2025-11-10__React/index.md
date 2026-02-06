@@ -69,3 +69,9 @@ This folder serves as both study notes and a technical reference for future fron
 
 
 ---
+
+## 📚 Links & Resources
+
+
+- **My CodeSandbox React App:** https://codesandbox.io/p/sandbox/musing-goldberg-5mhs9r
+  - LOGIN WITH: **GitHub SSO**

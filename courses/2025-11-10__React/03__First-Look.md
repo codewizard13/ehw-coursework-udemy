@@ -76,6 +76,7 @@ These are my personal notes on **Section 3: A First Look at React** ...
     - [Problems using Vanilla JavaScript to Build Front-End Applications](#problems-using-vanilla-javascript-to-build-front-end-applications)
       - [Problems with JS jQuery](#problems-with-js-jquery)
   - [▶️ VID 10: React vs. Vanilla JavaScript](#️-vid-10-react-vs-vanilla-javascript)
+      - [@@ 00:00:28](#-000028)
 
 
 
@@ -153,6 +154,12 @@ These are my personal notes on **Section 3: A First Look at React** ...
 
 - To get an first-feeling for how react keeps UI in sync with state, we compare the advice app fro the 1st sec with a vanilla JS implementation of the same application
 
+#### @@ 00:00:28
+
+![alt text](image.png)
+
+
+---
 
 
 
