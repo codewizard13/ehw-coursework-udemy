@@ -75,7 +75,7 @@ These are my personal notes on **Section 3: A First Look at React** ...
   - [▶️ VID 9:  Why Do Front-End Frameworks Exist?](#️-vid-9--why-do-front-end-frameworks-exist)
     - [Problems using Vanilla JavaScript to Build Front-End Applications](#problems-using-vanilla-javascript-to-build-front-end-applications)
       - [Problems with JS jQuery](#problems-with-js-jquery)
-  - [▶️ VID 10:](#️-vid-10)
+  - [▶️ VID 10: React vs. Vanilla JavaScript](#️-vid-10-react-vs-vanilla-javascript)
 
 
 
@@ -149,9 +149,9 @@ These are my personal notes on **Section 3: A First Look at React** ...
 - Frameworks enforce a correct way of structuring and writing code
 
 
-## ▶️ VID 10: 
+## ▶️ VID 10: React vs. Vanilla JavaScript
 
-
+- To get an first-feeling for how react keeps UI in sync with state, we compare the advice app fro the 1st sec with a vanilla JS implementation of the same application
 
 
 

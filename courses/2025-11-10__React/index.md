@@ -19,7 +19,7 @@
 | File Name                | **index.md**                                            |
 | ------------------------- | ------------------------------------------------------- |
 | **Date Created**          | 11/07/25                                                |
-| **Date Modified**         | 11/07/25                                                |
+| **Date Modified**         | 02/06/26                                                |
 | **Platform**              | Udemy                                                  |
 | **Channel**               | [Udemy eLearning](https://www.udemy.com/)              |
 | **Version**               | 0.01.00                                                |
@@ -62,22 +62,10 @@ This folder serves as both study notes and a technical reference for future fron
 
 | CH. Num | Timestamp/Video | Chapter Name/Title                                   |
 | ------- | ---------------- | ---------------------------------------------------- |
-| 01      | --               | [Introduction & Setup](01.01__Intro.md)       |
-| 02      | --               | [Modern React Fundamentals](01.02__Fundamentals.md)  |
-| 03      | --               | [JSX and Components](01.03__JSX-Components.md)      |
-| 04      | --               | [Props and Reusability](01.04__Props-Reuse.md)      |
-| 05      | --               | [React State Management](01.05__State.md)           |
-| 06      | --               | [Event Handling](01.06__Events.md)                  |
-| 07      | --               | [Hooks Deep Dive](01.07__Hooks.md)                  |
-| 08      | --               | [Advanced State Logic](01.08__Adv-State.md)         |
-| 09      | --               | [Routing with React Router](01.09__Routing.md)      |
-| 10      | --               | [Redux Toolkit & Context](01.10__Redux-Context.md)  |
-| 11      | --               | [React Query & Async Data](01.11__React-Query.md)   |
-| 12      | --               | [Next.js App Router](01.12__NextJS-AppRouter.md)    |
-| 13      | --               | [Authentication & Security](01.13__Auth-Security.md)|
-| 14      | --               | [Performance Optimization](01.14__Performance.md)   |
-| 15      | --               | [Deployment with Vercel](01.15__Deployment.md)      |
-| 16      | --               | [Final Project & Wrap-Up](01.16__Final-Project.md)  |
+| 01      | --               | [Introduction & Setup](01__Intro.md)       |
+| 02      | --               | [React Fundamentals](02__Fundamentals.md)  |
+| 03      | --               | [First Look at React](03__First-Look.md)      |
+
 
 
 ---
